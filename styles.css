@@ -5,6 +5,8 @@ h1 { font: helvetica; color: black;}
 
 h2 { border-top: solid 5px gray; padding-top: 10px }
 
-p { font: arial; color: gray;}
+p { font: arial; color: gray; line-height:normal;}
+
+
 
 /* body {padding-left: 10px} */
