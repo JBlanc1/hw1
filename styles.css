@@ -1,0 +1,10 @@
+/* Your CSS code goes in this file. */
+
+
+h1 { font: helvetica; color: black;}
+
+h2 { border-top: solid 5px gray; padding-top: 10px }
+
+p { font: arial; color: gray;}
+
+/* body {padding-left: 10px} */
