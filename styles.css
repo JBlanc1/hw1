@@ -6,3 +6,5 @@ h1 { font: arial; color: black;}
 h2 { border-top: solid 5px gray; padding-top: 10px }
 
 p { font: arial; color: gray; line-height:normal;}
+
+body {padding: 40px}
