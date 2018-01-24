@@ -5,6 +5,8 @@ h1 { font: arial; color: black;}
 
 h2 { border-top: solid 5px gray; padding-top: 10px }
 
-p { font: arial; color: gray; line-height:normal;}
+p { font: arial; color: black; line-height:normal;}
+
+p2 { font: arial; color: gray}
 
 div {padding:40px;background-color:white;>
